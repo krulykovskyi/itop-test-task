@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/itop-test-task/static/css/main.a617e044.chunk.css",
+    "main.js": "/itop-test-task/static/js/main.a9cfddaf.chunk.js",
+    "main.js.map": "/itop-test-task/static/js/main.a9cfddaf.chunk.js.map",
+    "runtime-main.js": "/itop-test-task/static/js/runtime-main.2101f327.js",
+    "runtime-main.js.map": "/itop-test-task/static/js/runtime-main.2101f327.js.map",
+    "static/js/2.a77f6f64.chunk.js": "/itop-test-task/static/js/2.a77f6f64.chunk.js",
+    "static/js/2.a77f6f64.chunk.js.map": "/itop-test-task/static/js/2.a77f6f64.chunk.js.map",
+    "static/js/3.3366c8fe.chunk.js": "/itop-test-task/static/js/3.3366c8fe.chunk.js",
+    "static/js/3.3366c8fe.chunk.js.map": "/itop-test-task/static/js/3.3366c8fe.chunk.js.map",
+    "index.html": "/itop-test-task/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/itop-test-task/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.a77f6f64.chunk.js.LICENSE.txt": "/itop-test-task/static/js/2.a77f6f64.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/itop-test-task/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2101f327.js",
+    "static/js/2.a77f6f64.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.a9cfddaf.chunk.js"
+  ]
+}
